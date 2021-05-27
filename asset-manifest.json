@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.8378aca1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8378aca1.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.94a16332.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.94a16332.js.map",
+    "static/css/2.3b656767.chunk.css": "/portfolio/static/css/2.3b656767.chunk.css",
+    "static/js/2.e63166b3.chunk.js": "/portfolio/static/js/2.e63166b3.chunk.js",
+    "static/js/2.e63166b3.chunk.js.map": "/portfolio/static/js/2.e63166b3.chunk.js.map",
+    "static/js/3.fc13c94b.chunk.js": "/portfolio/static/js/3.fc13c94b.chunk.js",
+    "static/js/3.fc13c94b.chunk.js.map": "/portfolio/static/js/3.fc13c94b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.3b656767.chunk.css.map": "/portfolio/static/css/2.3b656767.chunk.css.map",
+    "static/js/2.e63166b3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e63166b3.chunk.js.LICENSE.txt",
+    "static/media/background.56f624fc.mp4": "/portfolio/static/media/background.56f624fc.mp4",
+    "static/media/design.0603a972.png": "/portfolio/static/media/design.0603a972.png",
+    "static/media/flow.84aa1ea7.png": "/portfolio/static/media/flow.84aa1ea7.png",
+    "static/media/index.css": "/portfolio/static/media/nanum-pen-script-all-400-normal.7a8398df.woff",
+    "static/media/running-bkg.608f81d7.jpg": "/portfolio/static/media/running-bkg.608f81d7.jpg",
+    "static/media/sales-app-proto-video.a9648423.mp4": "/portfolio/static/media/sales-app-proto-video.a9648423.mp4",
+    "static/media/sketches.b43c5cc3.png": "/portfolio/static/media/sketches.b43c5cc3.png",
+    "static/media/style-guide.496814ab.png": "/portfolio/static/media/style-guide.496814ab.png",
+    "static/media/summit-strong-thumbnail.deb32a1a.jpg": "/portfolio/static/media/summit-strong-thumbnail.deb32a1a.jpg",
+    "static/media/tablet.b208b162.svg": "/portfolio/static/media/tablet.b208b162.svg",
+    "static/media/wireframe-revisions.6691fd7f.png": "/portfolio/static/media/wireframe-revisions.6691fd7f.png",
+    "static/media/wireframes.6b1b867b.png": "/portfolio/static/media/wireframes.6b1b867b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a16332.js",
+    "static/css/2.3b656767.chunk.css",
+    "static/js/2.e63166b3.chunk.js",
+    "static/js/main.8378aca1.chunk.js"
+  ]
+}
