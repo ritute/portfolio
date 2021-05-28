@@ -4,6 +4,7 @@ import {
 } from '@material-ui/core'
 import { Zoom } from 'react-awesome-reveal'
 
+import AutoPlayVideo from 'components/AutoPlayVideo'
 import salesAppVideo from 'videos/sales-app-proto-video.mp4'
 import tabletImage from 'images/sales-app/tablet.svg'
 
@@ -32,9 +33,7 @@ const SalesAppThumbnail = () => {
 
   return (
     <Zoom className={classes.videoContainer}>
-      <video className={classes.video} autoPlay muted loop playsInline>
-        <source src={salesAppVideo} type='video/mp4' />
-      </video>
+      <AutoPlayVideo className={classes.video} src={salesAppVideo} />
     </Zoom>
   )
 }

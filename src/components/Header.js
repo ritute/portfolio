@@ -7,6 +7,7 @@ import { Fade } from 'react-awesome-reveal'
 
 import Avatar from './Avatar'
 import Nav from './Nav'
+import AutoPlayVideo from './AutoPlayVideo'
 import backgroundVideo from 'videos/background.mp4'
 
 const useStyles = makeStyles((theme) => ({
@@ -75,9 +76,7 @@ const BackgroundVideo = () => {
 
   return (
     <div className={classes.videoContainer}>
-      <video className={classes.video} autoPlay playsInline muted loop playbackrate={0.5}>
-        <source src={backgroundVideo} type='video/mp4' />
-      </video>
+      <AutoPlayVideo className={classes.video} playbackrate={0.5} src={backgroundVideo} />
     </div>
   )
 }
