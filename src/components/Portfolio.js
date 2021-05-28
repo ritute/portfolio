@@ -10,7 +10,7 @@ import {
   unstable_createMuiStrictModeTheme as createMuiTheme
 } from '@material-ui/core/styles'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch,
   Redirect,
